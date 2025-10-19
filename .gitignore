@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+backend/venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
